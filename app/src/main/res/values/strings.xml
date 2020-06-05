@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+    <string name="txt_Title_String">Student Status</string>
+    <string name="txt_Math_String">Math</string>
+    <string name="txt_Physics_String">Physics</string>
+    <string name="txt_Chemistry_String">Chemistry</string>
+    <string name="btn_Average_String">Average</string>
+</resources>
